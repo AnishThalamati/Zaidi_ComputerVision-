@@ -1,5 +1,5 @@
+![image](https://github.com/AnishThalamati/Zaidi_ComputerVision-/assets/58533963/7afa2e05-073c-46a1-8ead-351f82457322)
 
-  [Pranav_Palleti_Sanjit_Shirol_Anish_Thalamati_Biomedical_Conference.pptx.pdf](https://github.com/AnishThalamati/Zaidi_ComputerVision-/files/11858906/Pranav_Palleti_Sanjit_Shirol_Anish_Thalamati_Biomedical_Conference.pptx.pdf)
 
 ## Credits
 Pranav Palleti, Anish Thalamati, Sanjit Shirol
